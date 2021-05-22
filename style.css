@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+}
+.page-wrapper{
+    width: 100%;
+}
+.green-box{
+    width: 90%;
+    background-color: #88eb95;
+    padding: 10% 0% 10% 0%;
+    border: 2px solid black;
+}
+.box-container{
+    width: 80%;
+    margin: 2% auto;
+    background-color: #d2d2d2;
+    padding: 5% 0% 5% 0%;
+}
+.box{
+    width: 15%;
+    background-color: #00b2aa;
+    display: inline-block;
+    padding-bottom: 18%;
+    margin: 1%;
+}
+.box-first{
+    margin-left: 8%;
+}
